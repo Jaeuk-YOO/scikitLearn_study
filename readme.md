@@ -25,7 +25,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import mglearn
-	# mglearn은 책을 위해 만들어진 슈퍼슈퍼 편핸 라이브러리다. 따라서 실습을 진행한 후에 반드시 한 번 따로 해부할 필요가 있겠음.
+# mglearn은 책을 위해 만들어진 슈퍼슈퍼 편핸 라이브러리다. 따라서 실습을 진행한 후에 반드시 한 번 따로 해부할 필요가 있겠음.
 ```
 matplotlib은 기본서체가 한글지원이 안되기 때문에 서체를 한글서체로 변경해줄 필요가 있습니다.
 ```py
